@@ -1,8 +1,8 @@
 {
-	"name": " Nayan",
+	"name": " Imran",
 	"version": "1.0.1",
 	"description": "A simple Facebook Messenger Bot Modified by Imran",
-	"main": "IMRAN.js",
+	"main": "Imran.js",
 	"scripts": {
 		"start": "node index",
 		"login": "node login",
